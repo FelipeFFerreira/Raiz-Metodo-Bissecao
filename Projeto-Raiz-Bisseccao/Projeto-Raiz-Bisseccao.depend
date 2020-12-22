@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1608605851 source:c:\github\raiz-metodo-bissecao\projeto-raiz-bisseccao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1608606785 source:c:\github\raiz-metodo-bissecao\projeto-raiz-bisseccao\bisseccao.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"bisseccao.h"
+
+1608603360 c:\github\raiz-metodo-bissecao\projeto-raiz-bisseccao\bisseccao.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
