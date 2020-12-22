@@ -1,2 +1,5 @@
 # Raiz-Metodo-Bissecao
-Projeto na área de calculo numérico para o calculo de raiz em funções continuas em um intervalo fechado.
+Projeto na área de calculo numérico para o obtenção de raizes entre intervalos fechados em funções continuas.
+
+![](https://github.com/FelipeFFerreira/Metodo-Bisseccao/blob/master/imgApresentacao.png "")
+
